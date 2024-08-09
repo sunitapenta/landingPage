@@ -8,7 +8,7 @@ import MentorsDiv from "@/app/Components/MentorsDiv/MentorsDiv";
 import Footer from "@/app/Components/Footer/Footer";
 
 
-export default function Home() {
+export default function Page() {
     return (
         <>
             <MainDiv/>
