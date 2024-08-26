@@ -726,3 +726,7 @@
     width: 80%;
     /*border: 2px solid red;*/
 }
+
+@media (max-width: 1024px) {
+    .page_enroll_div_content__mR4kS{flex-direction:column}
+}
